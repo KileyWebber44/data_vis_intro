@@ -185,4 +185,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#thing i am ignoring
+.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,jupyternotebooks,code
